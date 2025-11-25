@@ -1,0 +1,15 @@
+.highlight {
+    color: yellow;
+}
+
+.container {
+    border: 1px solid black;
+}
+
+li:hover {
+    color: blue;
+}
+
+li:first-child {
+    font-weight: bold;
+}

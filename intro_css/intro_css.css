@@ -1,0 +1,60 @@
+/* p {
+    color: green;
+}
+
+a {
+    color: orange;
+}
+
+h2 {
+    text-align: center;
+    background-color: aqua;
+}
+
+.paragraphe-rouge {
+    color: green;
+    background-color: cyan;
+    font-size: 20px;
+}
+
+#titre2 {
+    text-transform: uppercase;
+    color: white;
+    background-color: orange;
+} */
+
+
+
+/* * {
+    padding: 20px;
+    font-style: italic;
+    background-color: azure;
+} */
+
+
+/* div > p {
+    background-color: aqua;
+    border: 1px solid red;
+} */
+
+
+/* section + p {
+    background-color: pink;
+}
+
+
+a:hover {
+    font-size: 20px;
+    background-color: orange;
+    margin: 2px;
+    border-radius: 5px;
+    width: 100px;
+}
+
+p:first-child {
+    background-color: rgb(19, 28, 194);
+}
+
+li:last-child {
+    color: yellow;
+} */
